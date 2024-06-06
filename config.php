@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
 $db = 'CARTEIRA';
-$user = 'dudu';
-$pass = 'asas1212';
+$user = 'teste'; // set your MySQL DB User
+$pass = 'teste'; // set your MySQL DB Password
 $charset = 'utf8mb4';
